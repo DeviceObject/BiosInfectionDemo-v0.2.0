@@ -1,8 +1,8 @@
 #ifndef PATCH_HPP
 #define PATCH_HPP
 
-#include "IPatch.hpp"
-#include "../../logs/ILog.hpp"
+#include "bios/patch/IPatch.hpp"
+#include "logs/ILog.hpp"
 
 class Patch : public IPatch {
 private:

@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-install.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-download.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-update.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BiosProject" ],
+		"name" : "BiosProject"
+	}
+}

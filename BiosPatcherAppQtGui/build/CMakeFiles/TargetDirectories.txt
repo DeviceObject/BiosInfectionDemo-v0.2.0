@@ -1,0 +1,8 @@
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/CommonBaseProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/BiosProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/BiosPatcherAppQtGui.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/CommonBaseProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/BiosProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/edit_cache.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/BiosPatcherAppQtGui_automoc.dir

@@ -1,0 +1,11 @@
+# Target labels
+ CommonBaseProject
+# Source files and their labels
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/CommonBaseProject-build
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/CommonBaseProject-build.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-build.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-configure.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-update.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-patch.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-download.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-mkdir.rule

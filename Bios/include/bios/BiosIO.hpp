@@ -2,7 +2,7 @@
 #define BIOSIO_H
 
 #include "IBiosIO.hpp"
-#include "../logs/ILog.hpp"
+#include "logs/ILog.hpp"
 #include<vector>
 
 class BiosIO : public IBiosIO {

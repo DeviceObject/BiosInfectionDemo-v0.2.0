@@ -1,0 +1,16 @@
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherApp.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/CommonBaseProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatchProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppControllerProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/CommonBaseProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatchProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppControllerProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/edit_cache.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/dist.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/package_source.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/package.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/rebuild_cache.dir

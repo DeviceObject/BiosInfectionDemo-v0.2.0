@@ -1,0 +1,11 @@
+# Target labels
+ BiosPatchProject
+# Source files and their labels
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatchProject-build
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatchProject-build.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatchProject-prefix/src/BiosPatchProject-stamp/BiosPatchProject-build.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatchProject-prefix/src/BiosPatchProject-stamp/BiosPatchProject-configure.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatchProject-prefix/src/BiosPatchProject-stamp/BiosPatchProject-update.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatchProject-prefix/src/BiosPatchProject-stamp/BiosPatchProject-patch.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatchProject-prefix/src/BiosPatchProject-stamp/BiosPatchProject-download.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatchProject-prefix/src/BiosPatchProject-stamp/BiosPatchProject-mkdir.rule

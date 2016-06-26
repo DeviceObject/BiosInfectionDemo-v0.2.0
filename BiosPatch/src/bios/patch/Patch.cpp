@@ -1,4 +1,4 @@
-#include "Patch.hpp"
+#include "bios/patch/Patch.hpp"
 
 Patch::Patch() {
 }

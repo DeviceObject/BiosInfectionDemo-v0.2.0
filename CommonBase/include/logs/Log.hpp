@@ -11,9 +11,9 @@ class Log : public ILog {
 public:
     virtual void logMessage(std::string * message);
     virtual void logMessage(char const * message);
-    virtual void logMessage(LogLevel logPriorityLevel, std::string * message);
-    virtual void logMessage(LogLevel logPriorityLevel, char const * message);
-    virtual void logException(LogLevel logPriorityLevel, Exception& e);
+    virtual void logMessage(LogLevel logLevel, std::string * message);
+    virtual void logMessage(LogLevel logLevel, char const * message);
+    virtual void logException(LogLevel logLevel, Exception& e);
     virtual void printEndLine();
 };
 

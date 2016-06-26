@@ -1,6 +1,6 @@
-#include "Bios.hpp"
-#include "../logs/LogLevel.hpp"
-#include "../exceptions/IllegalStateException.hpp"
+#include "bios/Bios.hpp"
+#include "logs/LogLevel.hpp"
+#include "exceptions/IllegalStateException.hpp"
 
 Bios::Bios() {
 }

@@ -1,0 +1,7 @@
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/CommonBaseProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/BiosProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/CommonBaseProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/BiosProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/BiosPatcherAppController.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/edit_cache.dir
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppController/build/CMakeFiles/rebuild_cache.dir

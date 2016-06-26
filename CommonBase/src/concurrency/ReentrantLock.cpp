@@ -1,4 +1,4 @@
-#include "ReentrantLock.hpp"
+#include "concurrency/ReentrantLock.hpp"
 
 //TODO process or set recursion deepness
 void ReentrantLock::lock() {

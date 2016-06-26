@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-install.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-download.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-update.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BiosPatcherAppQtGuiProject" ],
+		"name" : "BiosPatcherAppQtGuiProject"
+	}
+}

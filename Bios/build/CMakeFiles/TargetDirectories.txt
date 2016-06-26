@@ -1,0 +1,5 @@
+C:/Users/Sakhno/workspace/BiosPatcher/Bios/build/CMakeFiles/CommonBaseProject.dir
+C:/Users/Sakhno/workspace/BiosPatcher/Bios/build/CMakeFiles/CommonBaseProject-build.dir
+C:/Users/Sakhno/workspace/BiosPatcher/Bios/build/CMakeFiles/Bios.dir
+C:/Users/Sakhno/workspace/BiosPatcher/Bios/build/CMakeFiles/edit_cache.dir
+C:/Users/Sakhno/workspace/BiosPatcher/Bios/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../Bios/include/bios/BiosVector.hpp
+IBiosVector.hpp
+../../Bios/include/bios/IBiosVector.hpp
+vector
+-
+
+../../Bios/include/bios/IBiosVector.hpp
+vector
+-
+
+../../Bios/include/bios/patch/IPatch.hpp
+../BiosVector.hpp
+../../Bios/include/bios/BiosVector.hpp
+
+../../CommonBase/include/exceptions/Exception.hpp
+string
+-
+
+../../CommonBase/include/logs/ILog.hpp
+../exceptions/Exception.hpp
+../../CommonBase/include/exceptions/Exception.hpp
+LogLevel.hpp
+../../CommonBase/include/logs/LogLevel.hpp
+string
+-
+
+../../CommonBase/include/logs/LogLevel.hpp
+
+../include/bios/patch/Patch.hpp
+bios/patch/IPatch.hpp
+../include/bios/patch/bios/patch/IPatch.hpp
+logs/ILog.hpp
+../include/bios/patch/logs/ILog.hpp
+
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatch/src/bios/patch/Patch.cpp
+bios/patch/Patch.hpp
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatch/src/bios/patch/bios/patch/Patch.hpp
+

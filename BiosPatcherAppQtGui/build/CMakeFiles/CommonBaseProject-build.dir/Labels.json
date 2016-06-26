@@ -1,0 +1,43 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/CommonBaseProject-build"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CMakeFiles/CommonBaseProject-build.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-build.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-update.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-download.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherAppQtGui/build/CommonBaseProject-prefix/src/CommonBaseProject-stamp/CommonBaseProject-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "CommonBaseProject" ],
+		"name" : "CommonBaseProject-build"
+	}
+}

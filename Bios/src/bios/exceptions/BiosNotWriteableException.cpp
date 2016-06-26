@@ -1,4 +1,4 @@
-#include "BiosNotWriteableException.hpp"
+#include "bios/exceptions/BiosNotWriteableException.hpp"
 
 BiosNotWriteableException::BiosNotWriteableException() {
 	// TODO Auto-generated constructor stub

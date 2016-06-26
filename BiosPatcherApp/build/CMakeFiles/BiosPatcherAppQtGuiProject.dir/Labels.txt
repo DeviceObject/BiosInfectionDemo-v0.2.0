@@ -1,0 +1,13 @@
+# Target labels
+ BiosPatcherAppQtGuiProject
+# Source files and their labels
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppQtGuiProject-complete.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-install.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-mkdir.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-download.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-update.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-patch.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-configure.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppQtGuiProject-prefix/src/BiosPatcherAppQtGuiProject-stamp/BiosPatcherAppQtGuiProject-build.rule

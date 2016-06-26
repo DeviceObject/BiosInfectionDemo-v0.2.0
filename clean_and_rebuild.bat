@@ -1,3 +1,3 @@
-call clean.bat
-if not exist "build" mkdir build
-call _build.bat
+rem %1 project dir
+call clean.bat %1
+call build.bat %1

@@ -1,0 +1,13 @@
+# Target labels
+ BiosProject
+# Source files and their labels
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosProject-complete.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-install.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-mkdir.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-download.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-update.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-patch.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-configure.rule
+C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosProject-prefix/src/BiosProject-stamp/BiosProject-build.rule

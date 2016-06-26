@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppControllerProject"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppControllerProject.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/CMakeFiles/BiosPatcherAppControllerProject-complete.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-install.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-mkdir.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-download.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-update.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-patch.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-configure.rule"
+		},
+		
+		{
+			"file" : "C:/Users/Sakhno/workspace/BiosPatcher/BiosPatcherApp/build/BiosPatcherAppControllerProject-prefix/src/BiosPatcherAppControllerProject-stamp/BiosPatcherAppControllerProject-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BiosPatcherAppControllerProject" ],
+		"name" : "BiosPatcherAppControllerProject"
+	}
+}

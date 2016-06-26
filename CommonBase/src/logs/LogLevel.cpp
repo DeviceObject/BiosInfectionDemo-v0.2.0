@@ -1,4 +1,4 @@
-#include "LogLevel.hpp"
+#include "logs/LogLevel.hpp"
 
 char const * logLevelAsString(LogLevel logPriorityLevel)
 {

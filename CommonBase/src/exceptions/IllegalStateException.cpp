@@ -1,4 +1,4 @@
-#include "IllegalStateException.hpp"
+#include "exceptions/IllegalStateException.hpp"
 
 IllegalStateException::IllegalStateException() {
 

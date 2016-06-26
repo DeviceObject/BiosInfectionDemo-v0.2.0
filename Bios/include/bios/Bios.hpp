@@ -5,8 +5,8 @@
 #include "IBiosVector.hpp"
 #include "IBiosIO.hpp"
 #include "patch/IPatch.hpp"
-#include "../logs/Log.hpp"
-#include "../concurrency/IReentrantLock.hpp"
+#include "logs/Log.hpp"
+#include "concurrency/IReentrantLock.hpp"
 #include <vector>
 
 
